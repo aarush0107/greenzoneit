@@ -23,7 +23,7 @@ export default function Navbar() {
             <div className="relative w-14 h-14">
 
               <Image
-                src="/images/logo.png"
+                src="/images/newlogo1.png"
                 alt="GreenZoneIT Logo"
                 fill
                 className="object-contain"
@@ -101,7 +101,7 @@ export default function Navbar() {
               <div className="relative w-12 h-12">
 
                 <Image
-                  src="/images/logo.png"
+                  src="/images/newlogo1.png"
                   alt="Logo"
                   fill
                   className="object-contain"
