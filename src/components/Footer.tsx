@@ -44,7 +44,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-green-500/10 mt-14 pt-8 text-center text-gray-500">
-        © 2026 GreenZoneIT. All rights reserved.
+        © 2022 GreenZoneIT. All rights reserved.
       </div>
 
     </footer>
